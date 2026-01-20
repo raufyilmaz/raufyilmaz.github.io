@@ -1,2 +1,2 @@
-# redflix-ads
-RedFlix IPTV app-ads.txt
+# RedFlix IPTV
+RedFlix IPTV: Akıllı Oynatıcı
