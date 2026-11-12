@@ -25,7 +25,7 @@ Lütfen e-postanızda şunları ekleyin:
 - Satın alma / abonelik sorunlarında **sipariş numaranızı** (Order ID) e-postaya ekleyin.
 
 ### Playlist ve İçerik
-- RedFlix **kanal listesi vermez**.
+- Zapvio **kanal listesi vermez**.
 - Çalışmayan kanal / link şikayetleri için: Bu durum genelde sağlayıcınız veya link ile ilgilidir.
 
 ### Telif / DMCA
@@ -48,7 +48,7 @@ Yeni özellik önerileri ve iyileştirmeler için bize yazabilirsiniz:
 
 ## Yasal
 
-- RedFlix yalnızca bir **oynatıcıdır**.
+- Zapvio yalnızca bir **oynatıcıdır**.
 - Kullanıcılar yalnızca **kendi yetkili oldukları** içerikleri eklemelidir.
 
 > Privacy Policy: https://raufyilmaz.github.io/privacy-policy.html
@@ -58,7 +58,7 @@ Yeni özellik önerileri ve iyileştirmeler için bize yazabilirsiniz:
 # Zapvio — Contact / Support (EN)
 
 Zapvio is a smart media player that lets users play **their own M3U/IPTV content**.  
-RedFlix **does not provide, host, or sell any content**.
+Zapvio **does not provide, host, or sell any content**.
 
 ---
 
@@ -82,11 +82,11 @@ Please include:
 - For purchase/subscription issues, include your **Order ID**.
 
 ### Playlists & Content
-- RedFlix **does not provide channel lists**.
+- Zapvio **does not provide channel lists**.
 - Broken streams are usually related to your provider/URL.
 
 ### Copyright / DMCA
-RedFlix does not host third-party content. To submit a copyright notice:
+Zapvio does not host third-party content. To submit a copyright notice:
 - Describe the content and provide references
 - Your request (review/removal)
 - Your contact details  
@@ -105,7 +105,7 @@ We welcome feature requests and improvements:
 
 ## Legal
 
-- RedFlix is a **player only**.
+- Zapvio is a **player only**.
 - Users must add only content they are **authorized** to use.
 
 > Privacy Policy: https://raufyilmaz.github.io/privacy-policy.html
