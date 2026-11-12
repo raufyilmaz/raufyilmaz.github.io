@@ -1,7 +1,7 @@
-# RedFlix IPTV — İletişim / Destek
+# Zapvio — İletişim / Destek
 
-RedFlix IPTV, **kullanıcıların kendi M3U / IPTV içeriklerini** oynatabilmesi için geliştirilmiş akıllı bir medya oynatıcıdır.  
-RedFlix, **herhangi bir içerik sağlamaz, barındırmaz veya satmaz.**
+Zapvio, **kullanıcıların kendi M3U / IPTV içeriklerini** oynatabilmesi için geliştirilmiş akıllı bir medya oynatıcıdır.  
+Zapvio, **herhangi bir içerik sağlamaz, barındırmaz veya satmaz.**
 
 ---
 
@@ -29,7 +29,7 @@ Lütfen e-postanızda şunları ekleyin:
 - Çalışmayan kanal / link şikayetleri için: Bu durum genelde sağlayıcınız veya link ile ilgilidir.
 
 ### Telif / DMCA
-RedFlix, üçüncü taraf içerikleri barındırmaz. Telif ile ilgili bir bildirim iletmek isterseniz:
+Zapvio, üçüncü taraf içerikleri barındırmaz. Telif ile ilgili bir bildirim iletmek isterseniz:
 - İlgili içerik bağlantısı / açıklaması
 - Talebiniz (kaldırma / inceleme)
 - İletişim bilgileriniz  
@@ -55,9 +55,9 @@ Yeni özellik önerileri ve iyileştirmeler için bize yazabilirsiniz:
 
 ---
 
-# RedFlix IPTV — Contact / Support (EN)
+# Zapvio — Contact / Support (EN)
 
-RedFlix IPTV is a smart media player that lets users play **their own M3U/IPTV content**.  
+Zapvio is a smart media player that lets users play **their own M3U/IPTV content**.  
 RedFlix **does not provide, host, or sell any content**.
 
 ---
